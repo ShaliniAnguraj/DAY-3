@@ -15,8 +15,6 @@ for(var i=0;i<arr.length;i++){
 console.log(arr[i]);
 }
 //for in loop
-//for in loop
-
 for( var n in arr){
     console.log(arr[n].name); 
     //console.log(arr[n].age)
