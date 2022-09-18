@@ -1,3 +1,5 @@
+//Create your own resume data in JSON format:
+
 var myResume={
     "basics": {
       "name": "SHALINI AR",
