@@ -1,4 +1,4 @@
-//Create your own resume data in JSON format:
+//2.Create your own resume data in JSON format:
 
 var myResume={
     "basics": {
@@ -33,7 +33,7 @@ var myResume={
     ],
     "skills": [
       {
-        "name": "java,javascript",
+        "name": "C,java,javascript",
         "level": "beginner",
         
       }
