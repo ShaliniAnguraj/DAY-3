@@ -13,15 +13,15 @@ var myResume={
         "state": "Tamilnadu",
         "country": "India"
       },
-      "profiles": [
+      "profiles": 
         {
           "website": "https://www.linkedin.com/in/shalini-anguraj-3a78231ba",
           "github":"https://github.com/ShaliniAnguraj"
         }
-      ]
+      
     },
     
-    "education": [
+    "education": 
       {
         "institution": "Tamilnadu  College Of Engineering",
         "department": "computer science and engineering",
@@ -30,19 +30,17 @@ var myResume={
         "batch end year": 2022,
         "gpa": 8.2,
       }
-    ],
-    "skills": [
+    
+    "skills": 
       {
         "name": "C,java,javascript",
         "level": "beginner",
-        
-      }
-    ],
-    "languages": [
+        }
+    "languages": 
       {
         "language": "Tamil,English",
       }
-    ],
+    
     
   }
   console.log(myResume);
